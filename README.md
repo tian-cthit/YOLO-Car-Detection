@@ -17,4 +17,5 @@ Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - [You Only Look Once
 Joseph Redmon, Ali Farhadi - [YOLO9000: Better, Faster, Stronger (2016)](https://arxiv.org/abs/1612.08242)
 
 Allan Zelener - [YAD2K: Yet Another Darknet 2 Keras](https://github.com/allanzelener/YAD2K)
+
 The official YOLO website [(https://pjreddie.com/darknet/yolo/)](https://pjreddie.com/darknet/yolo/)
